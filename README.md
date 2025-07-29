@@ -98,5 +98,11 @@ In addition, I learned how to present my achievements in a concise and readable 
 
 💡 Why This Task Matters
 
-In today’s digital age, a personal website is more than just a portfolio—it’s your professional identity. Completing this task gave me the tools to create a strong first impression, showcase my capabilities, and demonstrate the soft and hard skills I’ve developed. I now have a centralized, permanent place where I can guide future employers, collaborators, or clients.
+In today’s digital age, a personal website is more than just a portfolio—it’s your professional identity. Completing this task gave me the tools to create a strong first impression, showcase my capabilities, and demonstrate the soft and hard skills I’ve developed. I now have a centralized, permanent place where I can guide future employers, collaborators, or clients
+
+##OUTPUT : 
+
+<img width="1916" height="925" alt="Image" src="https://github.com/user-attachments/assets/59e3be88-808d-4d58-8ebc-400480a266d2" />
+
+<img width="1888" height="892" alt="Image" src="https://github.com/user-attachments/assets/37ac3311-f3bf-41cc-8a58-076d098f6c8a" />
 
